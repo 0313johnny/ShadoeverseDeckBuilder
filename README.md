@@ -1,0 +1,2 @@
+# ShadoeverseDeckBuilder
+將Shadowverse的卡片ID和shadowverse portal的牌組網址互相轉換
